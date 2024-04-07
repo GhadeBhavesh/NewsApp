@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 ![Screenshot 2024-04-07 201540](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/989b1478-28ed-44d0-853d-a9fdc6138e95)
 ![Screenshot 2024-04-07 201759](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/b60380d8-2567-42b8-ab78-476e6f69d409)
 ![Screenshot 2024-04-07 201813](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/dd8ad91c-d029-41cb-80c5-38ae2ffe67fa)
