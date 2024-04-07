@@ -3,7 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
-
+![Screenshot 2024-04-07 203834](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/a74011a8-9ee2-4aa2-a7f2-c4ddb17b5b4e)
+![Screenshot 2024-04-07 203858](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/9d5b39c0-84a3-4efe-9a2d-62b84d43373d)
+![Screenshot 2024-04-07 203913](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/fdf67e43-b608-4c1c-98b1-5e8a5f9e31b0)
 ![Screenshot 2024-04-07 201540](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/989b1478-28ed-44d0-853d-a9fdc6138e95)
 ![Screenshot 2024-04-07 201759](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/b60380d8-2567-42b8-ab78-476e6f69d409)
 ![Screenshot 2024-04-07 201813](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/dd8ad91c-d029-41cb-80c5-38ae2ffe67fa)
