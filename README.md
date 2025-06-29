@@ -1,8 +1,17 @@
-# news_app
+# 📰 NewsApp
 
-A new Flutter project.
+NewsApp is a Flutter-based application that delivers real-time news articles to users. It leverages the [NewsAPI.org](https://newsapi.org/) to fetch and display the latest headlines from around the world. The app is designed with a modern UI and offers a smooth, responsive user experience across devices.
 
-## Getting Started
+## 🚀 Features
+
+- 🔄 **Real-Time News**: Fetches the latest news articles using the NewsAPI.
+- 🌍 **Country Filter**: Allows users to filter news based on country preference.
+- 🧠 **Category Selection**: Browse news by categories like sports, technology, health, etc.
+- 🔖 **Bookmarking**: Save articles for later and access them offline.
+- 🔐 **Authentication**: Sign up and log in using email or Google account.
+- 📺 **Video News**: Watch curated news videos in the video section.
+- 🔍 **Search Functionality**: Search for articles with keywords.
+
 ![Screenshot 2024-04-07 203834](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/a74011a8-9ee2-4aa2-a7f2-c4ddb17b5b4e)
 ![Screenshot 2024-04-07 203858](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/9d5b39c0-84a3-4efe-9a2d-62b84d43373d)
 ![Screenshot 2024-04-07 203913](https://github.com/GhadeBhavesh/NewsApp/assets/108714917/fdf67e43-b608-4c1c-98b1-5e8a5f9e31b0)
