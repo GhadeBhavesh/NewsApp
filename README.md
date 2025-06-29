@@ -1,4 +1,6 @@
-NewsApp is a Flutter-based application that delivers real-time news articles to users. 
+# 📰 NewsApp
+
+NewsApp is a Flutter-based application that delivers real-time news articles to users. It leverages the [NewsAPI.org](https://newsapi.org/) to fetch and display the latest headlines from around the world. The app is designed with a modern UI and offers a smooth, responsive user experience across devices.
 
 ## 🚀 Features
 
